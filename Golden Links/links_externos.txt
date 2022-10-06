@@ -1,0 +1,4 @@
+[Figma] (www.figma.com)
+[Códigos de status] (https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
+[Material Design] (https://material.io/)
+[Spring Initializr] (https://start.spring.io/)
